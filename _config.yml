@@ -1,0 +1,19 @@
+title: ""
+description: ""
+baseurl: ""
+url: ""
+
+lowercase: true
+color_bg: black;
+color_punct: darkgreen;
+color_keyval: var(--oc-green-5);
+color_hover: darkgreen;
+show_quotes: true
+show_commas: true
+target: "_self"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+

@@ -1,0 +1,58 @@
+- key: Name
+  value: Vipul Maheshwari
+- key: Description
+  value:
+    - Machine Learning Engineer
+    - Writer
+    - Illustrator
+  typed: true
+- key: CV
+  value: cv.pdf
+  url: assets/cv.pdf
+- key: Address
+  value:
+    - Jyoti's house, Deogarh, Rajsamand, India
+- key: Contact
+  value:
+    - key: Phone
+      value: +91 894 982 3510
+    - key: Email
+      value: vipulmaheshwari.deogarh@gmail.com
+      url: "mailto:vipulmaheshwari.deogarh@gmail.com"
+
+- key: Blogs
+  value:
+    - value: blixxi labs
+      url: https://vipul-maheshwari.github.io/
+    - value: renevant cheetah
+      url: https://renevantcheetah.github.io/
+  
+- key: Profiles
+  value:
+    - value: Instagram
+      url: https://www.instagram.com/vipulmaheshwarii/
+    - value: LinkedIn
+      url: https://www.linkedin.com/in/vipulmaheshwarii/
+    - value: Twitter
+      url: https://twitter.com/PinakaX
+    - value: GitHub
+      url: https://github.com/vipul-maheshwari
+
+
+  name: Vipul Maheshwari
+  description:
+
+  blogs:
+    blixxi labs: https://vipul-maheshwari.github.io/
+    renevant cheetah: https://renevantcheetah.github.io/
+  cv: assets/cv.pdf
+  address:
+    - Jyoti's house, Deogarh, Rajsamand, India
+  contact:
+    phone: +91 894 982 3510
+    email: vipulmaheshwari.deogarh@gmail.com
+  profiles:
+    twitter: https://twitter.com/PinakaX
+    instagram: https://www.instagram.com/vipulmaheshwarii/
+    linkedin: https://www.linkedin.com/in/vipulmaheshwarii/
+    github: https://github.com/vipul-maheshwari
