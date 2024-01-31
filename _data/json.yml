@@ -29,30 +29,11 @@
   
 - key: Profiles
   value:
-    - value: Instagram
+    - value: instagram
       url: https://www.instagram.com/vipulmaheshwarii/
-    - value: LinkedIn
+    - value: linkedIn
       url: https://www.linkedin.com/in/vipulmaheshwarii/
-    - value: Twitter
+    - value: twitter
       url: https://twitter.com/PinakaX
-    - value: GitHub
+    - value: gitHub
       url: https://github.com/vipul-maheshwari
-
-
-  name: Vipul Maheshwari
-  description:
-
-  blogs:
-    blixxi labs: https://vipul-maheshwari.github.io/
-    renevant cheetah: https://renevantcheetah.github.io/
-  cv: assets/cv.pdf
-  address:
-    - Jyoti's house, Deogarh, Rajsamand, India
-  contact:
-    phone: +91 894 982 3510
-    email: vipulmaheshwari.deogarh@gmail.com
-  profiles:
-    twitter: https://twitter.com/PinakaX
-    instagram: https://www.instagram.com/vipulmaheshwarii/
-    linkedin: https://www.linkedin.com/in/vipulmaheshwarii/
-    github: https://github.com/vipul-maheshwari

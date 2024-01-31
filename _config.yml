@@ -1,14 +1,14 @@
-title: ""
-description: ""
+title: "Fire in the Hole!"
+description: "It's all about Vipul Maheshwari"
 baseurl: ""
 url: ""
 
-lowercase: true
+lowercase: 
 color_bg: black;
 color_punct: darkgreen;
 color_keyval: var(--oc-green-5);
 color_hover: darkgreen;
-show_quotes: true
+show_quotes: 
 show_commas: true
 target: "_self"
 
