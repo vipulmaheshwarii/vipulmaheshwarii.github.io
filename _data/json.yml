@@ -1,26 +1,33 @@
 - key: Name
   value: Vipul Maheshwari
-- key: Description
+- key: Who is Vipul? 
   value:
+    - Bakchod
     - Machine Learning Engineer
     - Writer
+    - Will drop my kids to school in Ferrari SF50
     - Illustrator
+    - Goes to GYM
+    - Badminton Baddy
+    - Loves F1
+    - Husband Material
+    - Atheletic Body before DEC 2025
   typed: true
-- key: CV
-  value: cv.pdf
-  url: assets/cv.pdf
+# - key: CV
+#   value: cv.pdf
+#   url: assets/cv.pdf
 - key: Contact
   value:
     - key: Phone
       value: +91 8949823510
     - key: Email
       value: mail address
-      url: "mailto:vipulmaheshwari.deogarh@gmail.com"
+      url: "mailto:vim.code.level@gmail.com"
 - key: Blogs
   value:
-    - value: jyosa labs
+    - value: Deox Labs
       url: https://vipul-maheshwari.github.io/
-    - value: renevant cheetah
+    - value: Renevant Cheetah
       url: https://renevantcheetah.github.io/
 - key: Profiles
   value:
@@ -29,6 +36,6 @@
     - value: linkedIn
       url: https://www.linkedin.com/in/vipulmaheshwarii/
     - value: twitter
-      url: https://twitter.com/PinakaX
+      url: https://twitter.com/fuxssss
     - value: gitHub
       url: https://github.com/vipul-maheshwari
